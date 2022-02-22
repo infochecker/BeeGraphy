@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to BeeGraphy
 
-You can use the [editor on GitHub](https://github.com/infochecker/BeeGraphy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aiming to fill a global gap in the CAD industry BeeGraphy has created an [online node editor for 2D and 3D parametric modeling](https://app.beegraphy.com). By creating BeeGraphy Editor, we aimed to turn the design and modeling workflow into a faster, more feature-rich process giving the shortest way to the next era of art: PARAMETRIC.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://beegraphy.com/blog/wp-content/uploads/2019/07/1-meet-beegraphy-platform-768x512.jpg)
 
-### Markdown
+We encourage the organization and construction of large-scale design projects by gathering teammates together in one place. The professionals can work together, see each other's changes in real-time, comment or edit the needed part of the design, as well as share the 3D view of the project with the client or manufacturer.
+Cloud-based collaboration platform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Creating a convenient environment for organizing projects of various designs, BeeGraphy also provides a cloud server for their storage, which allows you to access your files from anywhere, wherever there is an Internet connection.
 
-```markdown
-Syntax highlighted code block
+### What is BeeGraphy?
 
-# Header 1
-## Header 2
-### Header 3
+BeeGraphy company was established in 2021. **BeeGraphy is a software as a service platform where users can buy or create 2D and 3D parametric models.** We position us as a [parametric art hub](https://beegraphy.com).
 
-- Bulleted
-- List
+BeeGraphy has created an innovation in the CAD industry by introducing the BeeGraphy Editor: online parametric modeling node editor and BeeGraphy Shop: 2D/3D parametric model shop.
 
-1. Numbered
-2. List
+Parametric modeling is in great demand in architecture, home industry, furniture, jewelry, medicine, automotive, and other industries.
 
-**Bold** and _Italic_ and `Code` text
+You can follow the company’s [official blog](https://beegraphy.com/blog) and [social pages](https://allmylinks.com/beegraphy) for BeeGraphy updates.
 
-[Link](url) and ![Image](src)
-```
+### Get support or contact us
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Get in touch with our team, send your suggestions and quotes:
++1 (818) 943 9539
+info@beegraphy.com
+30 N Gould St STE R Sheridan, WY 82801
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/infochecker/BeeGraphy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find [technical documentation of BeeGraphy Editor here](https://beegraphy.com/blog/technical-documentation).
