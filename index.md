@@ -13,6 +13,8 @@ Creating a convenient environment for organizing projects of various designs, Be
 
 BeeGraphy company was established in 2021. **BeeGraphy is a software as a service platform where users can buy or create 2D and 3D parametric models.** We position us as a [parametric art hub](https://beegraphy.com).
 
+![Image](https://biznet.am/blog/wp-content/uploads/2022/02/editor-2.png)
+
 BeeGraphy has created an innovation in the CAD industry by introducing the BeeGraphy Editor: online parametric modeling node editor and BeeGraphy Shop: 2D/3D parametric model shop.
 
 Parametric modeling is in great demand in architecture, home industry, furniture, jewelry, medicine, automotive, and other industries.
