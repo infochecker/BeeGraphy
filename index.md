@@ -29,3 +29,4 @@ info@beegraphy.com
 30 N Gould St STE R Sheridan, WY 82801
 
 Find [technical documentation of BeeGraphy Editor here](https://beegraphy.com/blog/technical-documentation).
+Find more information [about the features, toolsets and history of BeeGraphy here](https://github.com/infochecker/BeeGraphy/wiki/About-BeeGraphy).
